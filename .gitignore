@@ -1,0 +1,13 @@
+# Arquivos do macOS
+.DS_Store
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos temporários de testes
+.pytest_cache/
